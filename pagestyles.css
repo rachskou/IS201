@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    color: rgb(44, 40, 40);
+    background-color: rgb(209, 237, 255);
+}
+.mydiv {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 3px outset black;
+    color: black;
+    background-color:rgb(249, 249, 233);
+    text-align: center;
+}
+.otherdiv {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    border: 1px outset black;
+    color: black;
+    background-color:rgb(251, 241, 241);
+    text-align: left;
+}
+.lastdiv {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    border: 1px outset black;
+    color: black;
+    background-color:rgb(249, 232, 222);
+    text-align: center;
+}
